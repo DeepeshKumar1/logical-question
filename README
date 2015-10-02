@@ -13,3 +13,5 @@ File created File3.txt
 Value entered 5
 File created File_numbered_5.txt
 Now copy the contents of the File2.txt and File3.txt to File_numbered_5.txt
+
+Solution is emc1.py 
