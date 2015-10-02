@@ -1,1 +1,15 @@
 Logical question to solve
+Take an input from user , till the input value reaches 5
+after accepting the input if input < 5 create a file with filename (value entered).txt and write value entered by user is (input)
+if input = 5 create a file with filename_numbered_ (value entered).txt and write value entered by us
+er  is 5
+now append the contents of all previous files in the file created when user inputs number 5
+
+Sample Ouput:
+Value entered 2
+File created File2.txt
+Value entered 3
+File created File3.txt
+Value entered 5
+File created File_numbered_5.txt
+Now copy the contents of the File2.txt and File3.txt to File_numbered_5.txt
